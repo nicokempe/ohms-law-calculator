@@ -1,4 +1,5 @@
-# website
+# Calculator for Ohm's law
+Task in GDS2 in LBTL: Programming
 
 ## Project setup
 ```
